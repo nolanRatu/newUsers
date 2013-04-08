@@ -1,0 +1,6 @@
+cd Scripts/
+
+Run powershell as admin and enter command
+
+.\newUsers.ps1
+
